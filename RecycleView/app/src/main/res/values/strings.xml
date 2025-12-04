@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">demo recycle view</string>
+    <string name="image_description">Item Image</string>
+</resources>
